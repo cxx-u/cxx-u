@@ -1,16 +1,27 @@
-## Hi there 👋
+## 👋 你好，我是 cxx-u
 
-<!--
-**cxx-u/cxx-u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+这是一个**备用 / 次要账号**，主要用于实验、测试，以及一些不适合放在主账号上的项目。
 
-Here are some ideas to get you started:
+### 🧩 关于这个账号
+- 🔧 用途：实验性项目、PoC、Demo、学习记录
+- 🧪 内容：Backend、AI 集成、自动化、小工具
+- 📦 状态：不保证长期维护，部分项目可能是一次性实验
+- 🧠 风格：能跑就行，但不是乱写
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 技术方向
+- 后端开发（API、Service、Integration）
+- AI / LLM 接入与实验
+- 数据处理与自动化脚本
+- 系统原型与测试代码
+
+### ⚠️ 免责声明
+这个账号中的代码**主要用于学习和实验**，  
+不代表最终生产质量，请自行判断是否适合使用。
+
+### 📫 联系
+如果你是从主账号或项目跟过来的，你知道怎么找到我。  
+如果不是，那大概率也不需要联系 😄
+
+---
+
+> “这个账号不是为了展示，而是为了试错。”
